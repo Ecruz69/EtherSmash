@@ -14,7 +14,7 @@ def get_balance(address):
     balance = int(req.json()['result']) / 10**18
     return balance
 
-with open("a.txt", "r") as addresses:
+with open("@.txt", "r") as addresses:
     ether_addr = [i.strip() for i in addresses.readlines()]
 
     for i in ether_addr:
