@@ -1,1 +1,1 @@
-Ethereum Addresses Bruteforce Balance checker in Python.
+Ethereum Addresses Bruteforce & Balance checker in Python.
