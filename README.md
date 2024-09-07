@@ -1,8 +1,4 @@
-EtherSmash : 
-
-
-
-Ethereum Addresses Bruteforce Balance checker in Python.
+EtherSmash : Eth Addresses Bruteforce Balance checker .
 
 Note : For education purpose only.
 
